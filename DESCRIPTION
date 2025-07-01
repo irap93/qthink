@@ -1,0 +1,12 @@
+Package: Bayesdemo
+Title: Bayesian demonstration data
+Version: 1.0.0
+Authors@R: person("Ira", "Parsons", , "ira.parsons@sdstate.edu", role = c("aut", "cre"))
+Description: Data presented from a heifer supplementation study conducted by Ira Parsons under the supervision of Gordon Carstens at the McGregor Agrilife Research station in McGregor, Texas. Heifers were supplemented with a feed additive in a 2x2 factorial crossover design. Heifers were weighed using chute scale, and in the post-weaning phase were fed a totally mixed ration in a GrowSafe (Vitalle) Feed Intake System.
+License: file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends: 
+    R (>= 3.5)
+LazyData: true
