@@ -10,3 +10,5 @@ RoxygenNote: 7.3.2
 Depends: 
     R (>= 3.5)
 LazyData: true
+URL: https://github.com/irap93/Bayesdemo
+BugReports: https://github.com/irap93/Bayesdemo/issues
