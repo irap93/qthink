@@ -1,0 +1,3 @@
+load("/Users/iraparsons/GitHub/qthink/data/heifer.rda")
+load("/Users/iraparsons/GitHub/qthink/data/bodyweight.rda")
+bodyweight
